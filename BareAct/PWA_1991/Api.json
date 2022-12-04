@@ -1,0 +1,31 @@
+{
+    "data":[
+        
+        {
+            "subTitle": "Section 1",
+            "title": "Short title and extent"
+        }, {
+            "subTitle": "Section 2",
+            "title": "Definitions."
+        }, {
+            "subTitle": "Section 3",
+            "title": "Bar of conversion of places of worship."
+        }, {
+            "subTitle": "Section 4",
+            "title": "Declaration as to the religious character of certain places of worship and bar of jurisdiction of courts, etc."
+        }, {
+            "subTitle": "Section 5",
+            "title": "Act not to apply to Ram Janma Bhumi-Babri Masjid."
+        }, {
+            "subTitle": "Section 6",
+            "title": "Punishment for contravention of section 3."
+        }, {
+            "subTitle": "Section 7",
+            "title": "Act to override other enactments."
+        },{
+            "subTitle":"Section 8",
+            "title":"Repealed"
+        }
+
+    ]
+}

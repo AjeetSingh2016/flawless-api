@@ -1,0 +1,46 @@
+{
+    "data":[
+        
+        {
+            "subTitle": "Section 1",
+            "title": "Short title and extent"
+        },{
+            "subTitle": "Section 2",
+            "title": "Act to be supplemental to Act 8 of 1890."
+        },{
+            "subTitle": "Section 3",
+            "title": "Application of Act."
+        },{
+            "subTitle": "Section 4",
+            "title": "Definitions"
+        },{
+            "subTitle": "Section 5",
+            "title": "Over-riding effect of Act."
+        },{
+            "subTitle": "Section 6",
+            "title": "Natural guardians of a Hindu minor."
+        },{
+            "subTitle": "Section 7",
+            "title": "Natural guardianship of adopted son."
+        },{
+            "subTitle": "Section 8",
+            "title": "Powers of natural guardian."
+        },{
+            "subTitle": "Section 9",
+            "title": "Testamentary guardians and their powers."
+        },{
+            "subTitle": "Section 10",
+            "title": "Incapacity of minor to act as guardian of property."
+        },{
+            "subTitle": "Section 11",
+            "title": "De facto guardian not to deal with minor’s property."
+        },{
+            "subTitle": "Section 12",
+            "title": "Guardian not to be appointed for minors undivided interest in joint family property."
+        },{
+            "subTitle": "Section 13",
+            "title": "Welfare of minor to be paramount consideration."
+        }
+
+    ]
+}
