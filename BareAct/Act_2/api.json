@@ -4,15 +4,15 @@
         {
             "subTitle": "Chapter 1",
             "title": "PRELIMINARY",
-            "section": ""
+            "path": "BareAct/Act_2/Chapters/Chapter_1/api.json"
         }, {
             "subTitle": "Chapter 2",
             "title": "ADOPTION",
-            "section": ""
+            "path": "BareAct/Act_2/Chapters/Chapter_2/api.json"
         }, {
             "subTitle": "Chapter 3",
             "title": "MAINTENANCE",
-            "section": ""
+            "path": "BareAct/Act_2/Chapters/Chapter_3/api.json"
         }
     ]
 }

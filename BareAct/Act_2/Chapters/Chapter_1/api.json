@@ -1,0 +1,23 @@
+{
+    "data":[
+        
+        {
+            "subTitle": "Section 1",
+            "title": "Short title and extent",
+            "web": "BareAct/Act_2/Chapter_1/1.html"
+        }, {
+            "subTitle": "Section 2",
+            "title": "Application of Act.",
+            "web": "BareAct/Act_2/Chapter_1/2.html"
+            
+        }, {
+            "subTitle": "Section 3",
+            "title": "Definitions",
+            "web": "BareAct/Act_2/Chapter_1/3.html"
+        }, {
+            "subTitle": "Section 4",
+            "title": "Overriding effect of Act",
+            "web": "BareAct/Act_2/Chapter_1/4.html"
+        }
+    ]
+}
