@@ -3,25 +3,32 @@
         
         {
             "subTitle": "Section 1",
-            "title": "Short title and extent"
+            "title": "Short title and extent",
+            "web": "BareAct/Act_7/1.html"
         },{
             "subTitle": "Section 2",
-            "title": "Definitions"
+            "title": "Definitions",
+            "web": "BareAct/Act_7/2.html"
         },{
             "subTitle": "Section 3",
-            "title": " Mahr or other properties of Muslim woman to be given to her at the time of divorce."
+            "title": " Mahr or other properties of Muslim woman to be given to her at the time of divorce.",
+            "web": "BareAct/Act_7/3.html"
         },{
             "subTitle": "Section 4",
-            "title": "Order for payment of maintenance."
+            "title": "Order for payment of maintenance.",
+            "web": "BareAct/Act_7/4.html"
         },{
             "subTitle": "Section 5",
-            "title": " Option to be governed by the provisions of sections 125 to 128 of Act 2 of 1974."
+            "title": " Option to be governed by the provisions of sections 125 to 128 of Act 2 of 1974.",
+            "web": "BareAct/Act_7/5.html"
         },{
             "subTitle": "Section 6",
-            "title": "Power to make rules."
+            "title": "Power to make rules.",
+            "web": "BareAct/Act_7/6.html"
         },{
             "subTitle": "Section 7",
-            "title": "Transitional provisions"
+            "title": "Transitional provisions",
+            "web": "BareAct/Act_7/7.html"
         }
 
     ]

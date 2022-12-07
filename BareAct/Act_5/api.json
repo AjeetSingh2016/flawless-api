@@ -3,25 +3,32 @@
         
         {
             "subTitle": "Section 1",
-            "title": "Short title and extent"
+            "title": "Short title and extent",
+            "web": "BareAct/Act_5/1.html"
         },  {
             "subTitle": "Section 2",
-            "title": "Definitions"
+            "title": "Definitions",
+            "web": "BareAct/Act_5/2.html"
         },  {
             "subTitle": "Section 3",
-            "title": "Power to declare areas to be disturbed areas."
+            "title": "Power to declare areas to be disturbed areas.",
+            "web": "BareAct/Act_5/3.html"
         },  {
             "subTitle": "Section 4",
-            "title": "Special powers of the armed forces."
+            "title": "Special powers of the armed forces.",
+            "web": "BareAct/Act_5/4.html"
         },  {
             "subTitle": "Section 5",
-            "title": "Arrested persons to be made over to the police."
+            "title": "Arrested persons to be made over to the police.",
+            "web": "BareAct/Act_5/5.html"
         },  {
             "subTitle": "Section 6",
-            "title": " Protection to persons acting under Act."
+            "title": " Protection to persons acting under Act.",
+            "web": "BareAct/Act_5/6.html"
         },  {
             "subTitle": "Section 7",
-            "title": "Repealed"
+            "title": "Repealed",
+            "web": "BareAct/Act_5/7.html"
         }
 
     ]

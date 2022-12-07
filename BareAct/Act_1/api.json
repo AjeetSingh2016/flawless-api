@@ -1,30 +1,29 @@
 {
     "data":[
-        
         {
             "subTitle": "Section 1",
             "title": "Short title and extent",
-            "Web": "BareAct/Act_1/1.html"
+            "web": "BareAct/Act_1/1.html"
         },{
             "subTitle": "Section 2",
             "title": "Grounds for decree for dissolution of marriage",
-            "Web": "BareAct/Act_1/2.html"
+            "web": "BareAct/Act_1/2.html"
         },{
             "subTitle": "Section 3",
             "title": "Notice to be served on heirs of the husband when the husband’s whereabouts are not known",
-            "Web": "BareAct/Act_1/3html"
+            "web": "BareAct/Act_1/3html"
         },{
             "subTitle": "Section 4",
             "title": "Effect of conversion to another faith",
-            "Web": "BareAct/Act_1/4.html"
+            "web": "BareAct/Act_1/4.html"
         },{
             "subTitle": "Section 5",
             "title": "Rights to dower not to be affected",
-            "Web": "BareAct/Act_1/5.html"
+            "web": "BareAct/Act_1/5.html"
         },{
             "subTitle": "Section 6",
             "title": "Repealed",
-            "Web": "BareAct/Act_1/6.html"
+            "web": "BareAct/Act_1/6.html"
         }
     ]
 }

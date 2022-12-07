@@ -3,43 +3,56 @@
         
         {
             "subTitle": "Section 1",
-            "title": "Short title and extent"
+            "title": "Short title and extent",
+            "web": "BareAct/Act_6/1.html"
         },{
             "subTitle": "Section 2",
-            "title": "Act to be supplemental to Act 8 of 1890."
+            "title": "Act to be supplemental to Act 8 of 1890.",
+            "web": "BareAct/Act_6/2.html"
         },{
             "subTitle": "Section 3",
-            "title": "Application of Act."
+            "title": "Application of Act.",
+            "web": "BareAct/Act_6/3.html"
         },{
             "subTitle": "Section 4",
-            "title": "Definitions"
+            "title": "Definitions",
+            "web": "BareAct/Act_6/4.html"
         },{
             "subTitle": "Section 5",
-            "title": "Over-riding effect of Act."
+            "title": "Over-riding effect of Act.",
+            "web": "BareAct/Act_6/5.html"
         },{
             "subTitle": "Section 6",
-            "title": "Natural guardians of a Hindu minor."
+            "title": "Natural guardians of a Hindu minor.",
+            "web": "BareAct/Act_6/6.html"
         },{
             "subTitle": "Section 7",
-            "title": "Natural guardianship of adopted son."
+            "title": "Natural guardianship of adopted son.",
+            "web": "BareAct/Act_6/7.html"
         },{
             "subTitle": "Section 8",
-            "title": "Powers of natural guardian."
+            "title": "Powers of natural guardian.",
+            "web": "BareAct/Act_6/8.html"
         },{
             "subTitle": "Section 9",
-            "title": "Testamentary guardians and their powers."
+            "title": "Testamentary guardians and their powers.",
+            "web": "BareAct/Act_6/9.html"
         },{
             "subTitle": "Section 10",
-            "title": "Incapacity of minor to act as guardian of property."
+            "title": "Incapacity of minor to act as guardian of property.",
+            "web": "BareAct/Act_6/10.html"
         },{
             "subTitle": "Section 11",
-            "title": "De facto guardian not to deal with minor’s property."
+            "title": "De facto guardian not to deal with minor’s property.",
+            "web": "BareAct/Act_6/11.html"
         },{
             "subTitle": "Section 12",
-            "title": "Guardian not to be appointed for minors undivided interest in joint family property."
+            "title": "Guardian not to be appointed for minors undivided interest in joint family property.",
+            "web": "BareAct/Act_6/12.html"
         },{
             "subTitle": "Section 13",
-            "title": "Welfare of minor to be paramount consideration."
+            "title": "Welfare of minor to be paramount consideration.",
+            "web": "BareAct/Act_6/13.html"
         }
 
     ]

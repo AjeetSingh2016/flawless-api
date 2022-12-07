@@ -3,28 +3,37 @@
         
         {
             "subTitle": "Section 1",
-            "title": "Short title and extent"
+            "title": "Short title and extent",
+            "web": "BareAct/Act_4/1.html"
+            
         }, {
             "subTitle": "Section 2",
-            "title": "Definitions."
+            "title": "Definitions.",
+            "web": "BareAct/Act_4/2.html"
         }, {
             "subTitle": "Section 3",
-            "title": "Bar of conversion of places of worship."
+            "title": "Bar of conversion of places of worship.",
+            "web": "BareAct/Act_4/3.html"
         }, {
             "subTitle": "Section 4",
-            "title": "Declaration as to the religious character of certain places of worship and bar of jurisdiction of courts, etc."
+            "title": "Declaration as to the religious character of certain places of worship and bar of jurisdiction of courts, etc.",
+            "web": "BareAct/Act_4/4.html"
         }, {
             "subTitle": "Section 5",
-            "title": "Act not to apply to Ram Janma Bhumi-Babri Masjid."
+            "title": "Act not to apply to Ram Janma Bhumi-Babri Masjid.",
+            "web": "BareAct/Act_4/5.html"
         }, {
             "subTitle": "Section 6",
-            "title": "Punishment for contravention of section 3."
+            "title": "Punishment for contravention of section 3.",
+            "web": "BareAct/Act_4/6.html"
         }, {
             "subTitle": "Section 7",
-            "title": "Act to override other enactments."
+            "title": "Act to override other enactments.",
+            "web": "BareAct/Act_4/7.html"
         },{
             "subTitle":"Section 8",
-            "title":"Repealed"
+            "title":"Repealed",
+            "web": "BareAct/Act_4/8.html"
         }
 
     ]
