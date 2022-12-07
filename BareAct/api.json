@@ -4,43 +4,52 @@
       "subTitle": "Act 1",
       "title": "Dissolution of Muslim marrige Act, 1939",
       "pattern": "First",
-      "date": 1939
+      "date": 1939,
+      "path": "BareAct/Act_1/api.json"
     },
     {
       "subTitle": "Act 2",
       "title": "Hindu Adoption and Maintenance Act, 1956",
       "pattern": "Second",
-      "date": 1956
+      "date": 1956,
+      "path": "BareAct/Act_2/api.json"
+      
     },
     {
       "subTitle": "Act 3",
       "title": "Muslim Women (Protection of Rights on Marriage) Act, 2019",
       "pattern": "Second",
-      "date": 2019
+      "date": 2019,
+      "path": "BareAct/Act_3/api.json"
+      
     },
     {
       "subTitle": "Act 4",
       "title": "Peoples of Worship Act,1991",
       "pattern": "First",
-      "date": 1991
+      "date": 1991,
+      "path": "BareAct/Act_4/api.json"
     },
     {
       "subTitle": "Act 5",
       "title": "The Armed Forces (Special Powers) Act, 1958",
       "pattern": "First",
-      "date": 1958
+      "date": 1958,
+      "path": "BareAct/Act_5/api.json"
     },
     {
       "subTitle": "Act 6",
       "title": "The Hindu Minority and Guardianship Act, 1956",
       "pattern": "First",
-      "date": 1956
+      "date": 1956,
+      "path": "BareAct/Act_6/api.json"
     },
     {
       "subTitle": "Act 7",
       "title": "The Muslim Women (Protection of Rights on Divorce) Act, 1986",
       "pattern": "First",
-      "date": 1986
+      "date": 1986,
+      "path": "BareAct/Act_7/api.json"
     }
   ]
 }
