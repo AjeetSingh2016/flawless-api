@@ -1,34 +1,46 @@
 {
-    "data":[
-        
-        {
-            "subTitle": "Act 1",
-            "title": "Dissolution of Muslim marrige Act, 1939",
-            "pattern": "First"
-        },  {
-            "subTitle": "Act 2",
-            "title": "Hindu Adoption and Maintenance Act, 1956",
-            "pattern": "Second"
-        },  {
-            "subTitle": "Act 3",
-            "title": "Muslim Women (Protection of Rights on Marriage) Act, 2019",
-            "pattern": "Second"
-        },  {
-            "subTitle": "Act 4",
-            "title": "Peoples of Worship Act,1991",
-            "pattern": "First"
-        },  {
-            "subTitle": "Act 5",
-            "title": "The Armed Forces (Special Powers) Act, 1958",
-            "pattern": "First"
-        },  {
-            "subTitle": "Act 6",
-            "title": "The Hindu Minority and Guardianship Act, 1956",
-            "pattern": "First"
-        },  {
-            "subTitle": "Act 7",
-            "title": "The Muslim Women (Protection of Rights on Divorce) Act, 1986",
-            "pattern": "First"
-        }
-    ]
+  "date": [
+    {
+      "subTitle": "Act 1",
+      "title": "Dissolution of Muslim marrige Act, 1939",
+      "pattern": "First",
+      "date": 1939
+    },
+    {
+      "subTitle": "Act 2",
+      "title": "Hindu Adoption and Maintenance Act, 1956",
+      "pattern": "Second",
+      "date": 1956
+    },
+    {
+      "subTitle": "Act 3",
+      "title": "Muslim Women (Protection of Rights on Marriage) Act, 2019",
+      "pattern": "Second",
+      "date": 2019
+    },
+    {
+      "subTitle": "Act 4",
+      "title": "Peoples of Worship Act,1991",
+      "pattern": "First",
+      "date": 1991
+    },
+    {
+      "subTitle": "Act 5",
+      "title": "The Armed Forces (Special Powers) Act, 1958",
+      "pattern": "First",
+      "date": 1958
+    },
+    {
+      "subTitle": "Act 6",
+      "title": "The Hindu Minority and Guardianship Act, 1956",
+      "pattern": "First",
+      "date": 1956
+    },
+    {
+      "subTitle": "Act 7",
+      "title": "The Muslim Women (Protection of Rights on Divorce) Act, 1986",
+      "pattern": "First",
+      "date": 1986
+    }
+  ]
 }
