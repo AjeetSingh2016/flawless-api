@@ -3,8 +3,18 @@
         
         {
             "subTitle": "Chapter 1",
-            "title": "Preliminary",
-            "section": ""
+            "title": "PRELIMINARY",
+            "path": "BareAct/Act_3/Chapters/Chapter_1/api.json"
+        },
+        {
+            "subTitle": "Chapter 2",
+            "title": "DECLARATION OF TALAQ TO BE VOID AND ILLEGAL",
+            "path": "BareAct/Act_3/Chapters/Chapter_2/api.json"
+        },
+        {
+            "subTitle": "Chapter 3",
+            "title": "PROTECTION OF RIGHTS OF MARRIED MUSLIM WOMEN",
+            "path": "BareAct/Act_3/Chapters/Chapter_3/api.json"
         }
 
     ]

@@ -1,0 +1,24 @@
+{
+    "data":[
+        
+        {
+            "subTitle": "Section 5",
+            "title": "Subsistence allowance",
+            "web": "BareAct/Act_3/Chapter_3/1.html"
+        }, {
+            "subTitle": "Section 6",
+            "title": "Custody of minor children",
+            "web": "BareAct/Act_3/Chapter_3/2.html"
+        },
+        {
+            "subTitle": "Section 7",
+            "title": "Offence to be cognizable, compoundable, etc",
+            "web": "BareAct/Act_3/Chapter_3/3.html"
+        }, {
+            "subTitle": "Section 8",
+            "title": "Repeal and savings",
+            "web": "BareAct/Act_3/Chapter_3/4.html"
+        }
+
+    ]
+}
