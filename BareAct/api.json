@@ -50,6 +50,13 @@
       "pattern": "First",
       "date": 1986,
       "path": "BareAct/Act_7/api.json"
+    },
+    {
+      "subTitle": "Act 8",
+      "title": "Some Bar Act",
+      "pattern": "First",
+      "date": 1986,
+      "path": "BareAct/Act_7/api.json"
     }
   ]
 }
